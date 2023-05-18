@@ -26,7 +26,7 @@
 
 
 
-<img width="80%" heigth="70%" src="https://github.com/ClarkMaltempi/Project_Agilizae/blob/docs/ImgProjeto/CadastroRestaurante.png"/>
+<img width="80%" heigth="70%" src="https://github.com/ClarkMaltempi/Project_Agilizae/blob/main/docs/ImgProjeto/CadastroRestaurante.png"/>
   
   
 
