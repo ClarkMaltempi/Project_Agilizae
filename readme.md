@@ -38,6 +38,7 @@
 <img width="80%" heigth="70%" src="https://github.com/ClarkMaltempi/Project_Agilizae/blob/main/docs/ImgProjeto/Cadastro_Produtos.png"/>
 
 # Cadastro_Horarios
-<p>Nessa página será definido os dias e horários do restaurante, cadastrando individualmente pelo dia da semana, por exemplo, ao definir o dia da semana como segunda-feira e o horário de 8:00 as 17:00, significa que o restaurante estará aberto nesse horário, caso contrário, no lugar do dia da semana será atribuído como fechado e nesse dia o específico o restaurante receberá esse valor.
+<p>Nessa página será definido os dias e horários do restaurante, cadastrando individualmente pelo dia da semana, por exemplo, ao definir o dia da semana como segunda-feira e o horário de 8:00 as 17:00, significa que o restaurante estará aberto nesse horário, caso contrário, no lugar do dia da semana será atribuído como fechado e nesse dia o específico o restaurante receberá esse estado.</p>
 <img width="80%" heigth="70%" src="https://github.com/ClarkMaltempi/Project_Agilizae/blob/main/docs/ImgProjeto/HorarioRest.png"/>
+<p>Após atribuir e configurar os horários, você também poderá atualizar posteriormente se assim desejar, clicando em atualizar, e poderá definir um novo horário de funcionamento para aquele dia especificamente</p>
 <img width="80%" heigth="70%" src="https://github.com/ClarkMaltempi/Project_Agilizae/blob/main/docs/ImgProjeto/EditarHorario.png"/>
