@@ -10,12 +10,11 @@
 <a href="#CadastroUser">Cadastro de Usuários</a></br>
 <a href="#Cadastro_Restautrante">Cadastro de Restaurantes</a></br>
 <a href="#Cadastro_Produtos">Cadastro de Produtos</a></br>
-<a href="#Cadastro_Rede">Cadastro de Horarios</a></br>
-<a href="#Cadastro_Remoto">Cadastro de Imagens</a></br>
-<a href="#Manipula_Contas">Vincular Imagem ao Produto</a></br>
-<a href="#Arquivos_Compactados">Cadastro de Categorias</a></br>
-<a href="#Repositorios">Atribuir Descontos Produtos</a></br>
-<a href="#Repositorios_Redhat_Fedora_CentOS">Pacotes Redhat, Fedora, CentOS</a></br>
+<a href="#Cadastro_Horarios">Cadastro de Horarios</a></br>
+<a href="#Cadastro_Imagens">Cadastro de Imagens</a></br>
+<a href="#Vicular_Imagem">Vincular Imagem ao Produto</a></br>
+<a href="#Cadastro_Categorias">Cadastro de Categorias</a></br>
+<a href="#Descontos_Produto">Atribuir Descontos Produtos</a></br>
 <a href="#Instalacao">Instalação</a></br>
 <a href="#Permissao">Permissões</a></br>
 <a href="#Scripts">Scripts</a></br>
@@ -34,6 +33,6 @@
 
 <img width="80%" heigth="70%" src="https://github.com/ClarkMaltempi/Project_Agilizae/blob/main/docs/ImgProjeto/CadastroRestaurante.png"/>
   
-# #Cadastro_Produtos
-
+# Cadastro_Produtos
+<p>Nessa sessão você irá cadastrar os seus produtos, atribuindo as informações pertinentes individualmente, bem como os valores para venda</p>
 <img width="80%" heigth="70%" src="https://github.com/ClarkMaltempi/Project_Agilizae/blob/main/docs/ImgProjeto/Cadastro_Produtos.png"/>
