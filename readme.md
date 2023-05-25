@@ -30,6 +30,7 @@
 
 
 # Cadastro_Restautrante
+<p>Para começar a utilizar os benefícios da plataforma, é necessário realizar um cadastro simples, com os dados do estabelecimento</p>
 
 <img width="80%" heigth="70%" src="https://github.com/ClarkMaltempi/Project_Agilizae/blob/main/docs/ImgProjeto/CadastroRestaurante.png"/>
   
