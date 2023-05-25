@@ -9,9 +9,9 @@
 <a href="#Acessos">Acessos e Utilização</a></br>
 <a href="#CadastroUser">Cadastro de Usuários</a></br>
 <a href="#Cadastro_Restautrante">Cadastro de Restaurantes</a></br>
-<a href="#Comandos_Diversos">Cadastro de Produtos</a></br>
-<a href="#Comandos_Rede">Cadastro de Horarios</a></br>
-<a href="#Acessos_Remoto">Cadastro de Imagens</a></br>
+<a href="#Cadastro_Produtos">Cadastro de Produtos</a></br>
+<a href="#Cadastro_Rede">Cadastro de Horarios</a></br>
+<a href="#Cadastro_Remoto">Cadastro de Imagens</a></br>
 <a href="#Manipula_Contas">Vincular Imagem ao Produto</a></br>
 <a href="#Arquivos_Compactados">Cadastro de Categorias</a></br>
 <a href="#Repositorios">Atribuir Descontos Produtos</a></br>
@@ -34,5 +34,6 @@
 
 <img width="80%" heigth="70%" src="https://github.com/ClarkMaltempi/Project_Agilizae/blob/main/docs/ImgProjeto/CadastroRestaurante.png"/>
   
-  
+# #Cadastro_Produtos
 
+<img width="80%" heigth="70%" src="https://github.com/ClarkMaltempi/Project_Agilizae/blob/main/docs/ImgProjeto/Cadastro_Produtos.png"/>
