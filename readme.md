@@ -1,6 +1,6 @@
 # Documentação Projeto Agilizae
 
-<h3>Plataforma como serviço PaaS, uma alternativa de gerenciamento e-commerce Food Service.</h3>
+<h3>Plataforma como serviço (PaaS), uma alternativa de gerenciamento e-commerce Food Service.</h3>
 <h3>Documentação em construção, projeto com código privado.</h3>
 
 # Indice
