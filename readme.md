@@ -38,7 +38,7 @@
 # Cadastro_Restautrante
 <p>Para começar a utilizar os benefícios da plataforma, é necessário realizar um cadastro simples, com os dados do estabelecimento isso se refere ao cadastro da pessoa jurídica, lembrando que para habilitar outras funções de gerenciamento que inicialmente se encontram bloqueadas, é necessário obrigatoriamente seguir com esse passo.</p>
 
-<img width="80%" heigth="70%" src="https://github.com/ClarkMaltempi/Project_Agilizae/blob/main/docs/ImgProjeto/CadastroRestaurante.png"/>
+<img width="80%" heigth="70%" src="https://github.com/ClarkMaltempi/Project_Agilizae/blob/main/docs/ImgProjeto/CadastroRestaurante_.PNG"/>
   
 # Cadastro_Produtos
 <p>Nessa sessão você irá cadastrar os seus produtos, atribuindo as informações pertinentes individualmente, bem como os valores para venda</p>
