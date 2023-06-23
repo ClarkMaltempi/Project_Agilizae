@@ -27,7 +27,13 @@
 
 <p>Desenvolver uma aplicação que contribua com a automação de pedidos de pequenos e médios empreendedores do segmento de restaurantes. Tornando ágil, viável financeiramente e sem burocratização para os usuários e estabelecimentos.</p>
 
+<h3>Estrutura do Sistema</h3>
+
+<p>Sobre a estrutura do sistema, ela é composta por uma tela inicial (site home), onde consta o primeiro acesso com cadastro de pessoa física, posteriormente ao cadastro e o login, temos a tela adm principal onde está todas as ferramentas de gerenciamento do negócio, por ultimo, temos a parte de acesso onde o cliente que utilzará os serviços irá consumir, essa parte é publica e divulgada pelo contratante </p>
+
 # CadastroUser
+<p>O primeiro passo para a utilização é o cadastro de pessoa física, para ter o acesso a plataforma</p>
+<img width="80%" heigth="70%" src="https://github.com/ClarkMaltempi/Project_Agilizae/blob/main/docs/ImgProjeto/CadastroNovoCliente.png"/>
 
 # Cadastro_Restautrante
 <p>Para começar a utilizar os benefícios da plataforma, é necessário realizar um cadastro simples, com os dados do estabelecimento</p>
