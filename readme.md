@@ -33,7 +33,7 @@
 
 # CadastroUser
 <p>O primeiro passo para a utilização é o cadastro de pessoa física, para ter o acesso a plataforma</p>
-<img width="80%" heigth="70%" src="https://github.com/ClarkMaltempi/Project_Agilizae/blob/main/docs/ImgProjeto/CadastroNovoCliente.png"/>
+<img width="80%" heigth="70%" src="https://github.com/ClarkMaltempi/Project_Agilizae/blob/main/docs/ImgProjeto/CadastroPessoafisica.png"/>
 
 # Cadastro_Restautrante
 <p>Para começar a utilizar os benefícios da plataforma, é necessário realizar um cadastro simples, com os dados do estabelecimento</p>
