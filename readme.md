@@ -10,6 +10,7 @@
 <a href="#CadastroUser">Cadastro de Usuários</a></br>
 <a href="#Cadastro_Restautrante">Cadastro de Restaurantes</a></br>
 <a href="#Cadastro_Produtos">Cadastro de Produtos</a></br>
+<a href="#Edicao_Produtos">Edição de Produtos</a></br>
 <a href="#Cadastro_Horarios">Cadastro de Horarios</a></br>
 <a href="#Cadastro_Imagens">Cadastro de Imagens</a></br>
 <a href="#Vicular_Imagem">Vincular Imagem ao Produto</a></br>
@@ -43,6 +44,10 @@
 # Cadastro_Produtos
 <p>Nessa sessão você irá cadastrar os seus produtos, atribuindo as informações pertinentes individualmente, bem como os valores para venda</p>
 <img width="80%" heigth="70%" src="https://github.com/ClarkMaltempi/Project_Agilizae/blob/main/docs/ImgProjeto/Cadastro_Produtos.png"/>
+
+# Edicao_Produtos
+<p>A ferramenta proporcionará a edição e manipulação dos produtos conforme a necessidade, inserindo informações, editando para a finalidade de atualização, atribuindo descontos.</p>
+<img width="80%" heigth="70%" src="https://github.com/ClarkMaltempi/Project_Agilizae/blob/main/docs/ImgProjeto/EditarInfoProd.png"/>
 
 # Cadastro_Horarios
 <p>Nessa página será definido os dias e horários do restaurante, cadastrando individualmente pelo dia da semana, por exemplo, ao definir o dia da semana como segunda-feira e o horário de 8:00 as 17:00, significa que o restaurante estará aberto nesse horário, caso contrário, no lugar do dia da semana será atribuído como fechado e nesse dia o específico o restaurante receberá esse estado.</p>
