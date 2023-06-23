@@ -27,6 +27,7 @@
 
 <p>Desenvolver uma aplicação que contribua com a automação de pedidos de pequenos e médios empreendedores do segmento de restaurantes. Tornando ágil, viável financeiramente e sem burocratização para os usuários e estabelecimentos.</p>
 
+# CadastroUser
 
 # Cadastro_Restautrante
 <p>Para começar a utilizar os benefícios da plataforma, é necessário realizar um cadastro simples, com os dados do estabelecimento</p>
