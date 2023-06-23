@@ -21,7 +21,7 @@
 
 # Sobre
 
-<p>Dentro de um ecossistema empresarial, mesmo que de um micro e médio empreendimento;’’ processos bem definidos, autônomos e adaptáveis proporcionam um círculo virtuoso que atende o mercado que essa empresa está inserida de forma satisfatória; o que proporciona aumento da demanda dessa empresa. A Aplicação apresentada é uma opção para viabilizar processos de pedido remoto e delivery voltados à micro e médio empreendedores, com a missão de fomentar o mercado tecnológico que atende esse segmento, proporcionando a ampliação de opções para os usuários finais, com preços acessíveis e voltados à reais necessidades desse perfil.</p>
+<p>Dentro de um ecossistema empresarial, mesmo que de um micro e médio empreendimento, processos bem definidos, autônomos e adaptáveis proporcionam um círculo virtuoso que atende o mercado que essa empresa está inserida de forma satisfatória; o que proporciona aumento da demanda dessa empresa. A Aplicação apresentada é uma opção para viabilizar processos de pedido remoto e delivery voltados à micro e médio empreendedores, com a missão de fomentar o mercado tecnológico que atende esse segmento, proporcionando a ampliação de opções para os usuários finais, com preços acessíveis e voltados à reais necessidades desse perfil.</p>
 
 <h3>Objetivo Geral</h3>
 
@@ -32,7 +32,7 @@
 <p>Sobre a estrutura do sistema, ela é composta por uma tela inicial (site home), onde consta o primeiro acesso com cadastro de pessoa física, posteriormente ao cadastro e o login, temos a tela adm principal onde está todas as ferramentas de gerenciamento do negócio, por ultimo, temos a parte de acesso onde o cliente que utilzará os serviços irá consumir, essa parte é publica e divulgada pelo contratante </p>
 
 # CadastroUser
-<p>O primeiro passo para a utilização é o cadastro de pessoa física, para ter o acesso a plataforma</p>
+<p>O primeiro passo para a utilização é o cadastro de pessoa física, para ter o acesso a plataforma.</p>
 <img width="80%" heigth="70%" src="https://github.com/ClarkMaltempi/Project_Agilizae/blob/main/docs/ImgProjeto/CadastroPessoafisica.PNG"/>
 
 # Cadastro_Restautrante
