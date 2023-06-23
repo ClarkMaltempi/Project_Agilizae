@@ -8,6 +8,7 @@
 <a href="#Sobre">Sobre</a></br>
 <a href="#Acessos">Acessos e Utilização</a></br>
 <a href="#CadastroUser">Cadastro de Usuários</a></br>
+<a href="#TelaAdm">Tela Administrativa</a></br>
 <a href="#Cadastro_Restautrante">Cadastro de Restaurantes</a></br>
 <a href="#Cadastro_Produtos">Cadastro de Produtos</a></br>
 <a href="#Edicao_Produtos">Edição de Produtos</a></br>
@@ -40,6 +41,10 @@
 <p>Para começar a utilizar os benefícios da plataforma, é necessário realizar um cadastro simples, com os dados do estabelecimento isso se refere ao cadastro da pessoa jurídica, lembrando que para habilitar outras funções de gerenciamento que inicialmente se encontram bloqueadas, é necessário obrigatoriamente seguir com esse passo.</p>
 
 <img width="80%" heigth="70%" src="https://github.com/ClarkMaltempi/Project_Agilizae/blob/main/docs/ImgProjeto/CadastroRestaurante_.PNG"/>
+
+# TelaAdm
+<p>Após o cadastro do restaurante habilitará a tela Administrativa com todas as ferramentas.</p>
+<img width="80%" heigth="70%" src="https://github.com/ClarkMaltempi/Project_Agilizae/blob/main/docs/ImgProjeto/PainelAdm.PNG"/>
   
 # Cadastro_Produtos
 <p>Nessa sessão você irá cadastrar os seus produtos, atribuindo as informações pertinentes individualmente, bem como os valores para venda</p>
